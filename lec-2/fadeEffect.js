@@ -1,4 +1,5 @@
 /* jQuery Show And Hide Element */
+
 // show(speed, callback)
 // hide(speed, callback)
 

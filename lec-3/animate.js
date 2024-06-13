@@ -1,7 +1,6 @@
 /* jQuery Animate effect */
 
 // animate({params} , speed  , callback)
-
 // css("backgound-color", "red")
 // css("backgound-color": "red" , "font-size" :"30px")
 

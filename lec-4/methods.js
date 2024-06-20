@@ -11,7 +11,7 @@ $(function () {
         $('p').empty()
     })
 })
-    
+
 
 // jQuery Add Method
 // jQuery append / prepend / after  / before
@@ -55,11 +55,11 @@ $(function () {
 //     })
 // })
 
-// $(function () {
-//     $("button").click(function () {
-//         $("div").toggleClass('box')
-//     })
-// })
+$(function () {
+    $("button").click(function () {
+        $("div").toggleClass('box')
+    })
+})
 
 
 /* jQuery Traversing */
